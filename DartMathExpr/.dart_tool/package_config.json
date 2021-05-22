@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "CryptDST",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2021-05-07T09:38:11.966730Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.0"
+}
