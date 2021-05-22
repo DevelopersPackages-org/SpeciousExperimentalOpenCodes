@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "Dart_Small_ToolChain",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2021-04-12T06:06:26.833975Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.0"
+}
