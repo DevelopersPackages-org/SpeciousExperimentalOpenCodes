@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "ColoredSyntax",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2021-05-07T09:41:12.504909Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.0"
+}
